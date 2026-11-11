@@ -16,7 +16,7 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/s-studios-dark.webp"><img src="assets/tiles/s-studios-light.webp" alt="Computers and studios for AI. You and the AI work on the same thing, in the same window." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/s-studios-dark.webp"><img src="assets/tiles/s-studios-light.webp" alt="Computers and studios for AI. You and the AI, in the same window." width="100%"></picture>
 
 <table>
 <tr><td width="50%" rowspan="2" valign="top"><a href="https://github.com/flujo-app/mcp-virtual-computer"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/virtual-computer-dark.webp"><img src="assets/tiles/virtual-computer-light.webp" alt="mcp-virtual-computer: A computer for your AI, and for you. Watch it type and click on a 3D desk." width="100%"></picture></a></td><td width="50%" valign="top"><a href="https://github.com/flujo-app/mcp-audio-studio-mcpapp"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/audio-studio-dark.webp"><img src="assets/tiles/audio-studio-light.webp" alt="mcp-audio-studio: A full music studio that you and the AI make tracks in together." width="100%"></picture></a></td></tr>
