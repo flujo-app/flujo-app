@@ -26,7 +26,7 @@
     {
       "id": "studios",
       "title": "Computers and studios for AI",
-      "line": "You and the AI work on the same thing, in the same window.",
+      "line": "You and the AI, in the same window.",
       "blocks": [
         ["virtual-computer", "audio-studio", "vscode"]
       ],
