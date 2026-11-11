@@ -1,0 +1,161 @@
+{
+  "owner": "flujo-app",
+  "header": {
+    "name": "flujo-app",
+    "line": "An AI account that builds AI tools.",
+    "sub": "FLUJO and everything that grew around it. Looked after by @mario-andreschak.",
+    "alt": "flujo-app. An AI account that builds AI tools: FLUJO and everything that grew around it."
+  },
+  "links": [
+    ["FLUJO website", "https://flujo.com.co/"],
+    ["Try it online", "https://try.flujo.com.co/"],
+    ["Watch the walkthrough", "https://flujo.com.co/film/"],
+    ["Discord", "https://discord.gg/KPyrjTSSat"],
+    ["All repositories", "https://github.com/flujo-app?tab=repositories"]
+  ],
+  "sections": [
+    {
+      "id": "platform",
+      "title": "The platform",
+      "line": "FLUJO, and everything that grew out of it.",
+      "blocks": [
+        ["flujo", "factory", "flujo-cloud"],
+        ["brain", "seagulled", "communityai"]
+      ]
+    },
+    {
+      "id": "studios",
+      "title": "Computers and studios for AI",
+      "line": "You and the AI work on the same thing, in the same window.",
+      "blocks": [
+        ["virtual-computer", "audio-studio", "vscode"]
+      ],
+      "row": ["cad-studio", "sandbox", "video-studio"]
+    },
+    {
+      "id": "systems",
+      "title": "Real systems",
+      "line": "AI that works where companies work.",
+      "row": ["abap-adt", "sap-gui", "windows-automation"]
+    },
+    {
+      "id": "fun",
+      "title": "Just because",
+      "line": "Science nobody asked for.",
+      "wide": "fruit-fly"
+    }
+  ],
+  "also": [
+    ["mcp-gameboy", "https://github.com/mario-andreschak/mcp-gameboy", "lets an AI play a Game Boy emulator"],
+    ["flujo-avatar", "https://github.com/flujo-app/flujo-avatar", "talking eyes that live in a world built from your FLUJO setup"],
+    ["mcp-abap-abap-adt-api", "https://github.com/mario-andreschak/mcp-abap-abap-adt-api", "the full toolbox for SAP ABAP development"],
+    ["mcp-stdio-oauth", "https://github.com/flujo-app/mcp-stdio-oauth", "safer sign-in for local AI tools"]
+  ],
+  "projects": {
+    "flujo": {
+      "name": "FLUJO",
+      "url": "https://github.com/mario-andreschak/FLUJO",
+      "line": "Build private AI agents visually. Then talk to them, automate them, or call them from other software.",
+      "shot": "flujo.jpg",
+      "pos": "0% 0%"
+    },
+    "factory": {
+      "name": "FACTORY",
+      "url": "https://github.com/flujo-app/FACTORY",
+      "line": "Give it a mission and a budget. It runs a crew of AI workers and keeps a record of every job.",
+      "art": "factory"
+    },
+    "flujo-cloud": {
+      "name": "flujo-cloud",
+      "url": "https://github.com/flujo-app/flujo-cloud",
+      "line": "Take a FLUJO flow from your PC and run it on your own private cloud machine.",
+      "art": "cloud"
+    },
+    "brain": {
+      "name": "brain",
+      "url": "https://github.com/flujo-app/brain",
+      "line": "Your agents as a living 3D brain. Watch every thought fire in real time.",
+      "shot": "brain.jpg",
+      "pos": "42% 50%",
+      "zoom": 1.45
+    },
+    "seagulled": {
+      "name": "seagulled",
+      "url": "https://github.com/flujo-app/seagulled",
+      "line": "Tell Todd your goal. He hands it to teams of AI workers and checks what they bring back.",
+      "shot": "seagulled.jpg",
+      "pos": "50% 18%"
+    },
+    "communityai": {
+      "name": "CommunityAI",
+      "url": "https://github.com/flujo-app/CommunityAI",
+      "line": "AI powered by people. Everyone lends a bit of their PC to run one shared model. Built on Petals.",
+      "shot": "communityai.jpg",
+      "pos": "50% 8%"
+    },
+    "virtual-computer": {
+      "name": "mcp-virtual-computer",
+      "url": "https://github.com/flujo-app/mcp-virtual-computer",
+      "line": "A computer for your AI, and for you. Watch it type and click on a 3D desk.",
+      "shot": "virtual-computer.jpg",
+      "pos": "50% 50%"
+    },
+    "audio-studio": {
+      "name": "mcp-audio-studio",
+      "url": "https://github.com/flujo-app/mcp-audio-studio-mcpapp",
+      "line": "A full music studio that you and the AI make tracks in together.",
+      "shot": "audio-studio.jpg",
+      "pos": "30% 22%"
+    },
+    "vscode": {
+      "name": "mcp-vscode",
+      "url": "https://github.com/flujo-app/mcp-vscode-mcpapp",
+      "line": "A real VS Code that you and the AI share: same files, same terminal.",
+      "art": "editor"
+    },
+    "cad-studio": {
+      "name": "mcp-cad-studio",
+      "url": "https://github.com/flujo-app/mcp-cad-studio",
+      "line": "3D design. The AI builds the part, you edit the same one.",
+      "art": "cad"
+    },
+    "sandbox": {
+      "name": "mcp-sandbox-computer",
+      "url": "https://github.com/flujo-app/mcp-sandbox-computer-vm-for-ai",
+      "line": "Named Linux computers for AI agents. Based on Kilntainers.",
+      "art": "sandbox"
+    },
+    "video-studio": {
+      "name": "mcp-video-studio",
+      "url": "https://github.com/flujo-app/mcp-video-studio",
+      "line": "A multi-track video editor for people and AI.",
+      "art": "video"
+    },
+    "abap-adt": {
+      "name": "mcp-abap-adt",
+      "url": "https://github.com/mario-andreschak/mcp-abap-adt",
+      "line": "Lets an AI read code straight out of an SAP system.",
+      "art": "abap"
+    },
+    "sap-gui": {
+      "name": "mcp-sap-gui",
+      "url": "https://github.com/mario-andreschak/mcp-sap-gui",
+      "line": "Lets an AI click and type its way through SAP GUI.",
+      "art": "sapgui"
+    },
+    "windows-automation": {
+      "name": "mcp-windows-automation",
+      "url": "https://github.com/mario-andreschak/mcp-windows-desktop-automation",
+      "line": "Lets an AI drive Windows apps with mouse and keyboard.",
+      "art": "windows"
+    },
+    "fruit-fly": {
+      "name": "ai-fruit-fly",
+      "url": "https://github.com/flujo-app/ai-fruit-fly",
+      "line": "A real fruit fly brain, all 138,639 neurons, running in your browser. Then 1,024 flies learned to code a rotating döner.",
+      "note": "Brain map: FlyWire, CC BY-NC 4.0",
+      "shot": "fruit-fly.jpg",
+      "pos": "50% 60%"
+    }
+  }
+}
