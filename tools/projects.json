@@ -62,7 +62,7 @@
     "factory": {
       "name": "FACTORY",
       "url": "https://github.com/flujo-app/FACTORY",
-      "line": "Give it a mission and a budget. It runs a crew of AI workers and keeps a record of every job.",
+      "line": "A reusable swarm engine for your app. Bring your own AI subscription, or host your own models.",
       "art": "factory"
     },
     "flujo-cloud": {
