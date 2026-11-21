@@ -41,8 +41,8 @@
     {
       "id": "fun",
       "title": "Just because",
-      "line": "Science nobody asked for.",
-      "wide": "fruit-fly"
+      "line": "Science and games nobody asked for.",
+      "wide": ["fruit-fly", "whiskercam"]
     }
   ],
   "also": [
@@ -156,6 +156,14 @@
       "note": "Brain map: FlyWire, CC BY-NC 4.0",
       "shot": "fruit-fly.jpg",
       "pos": "50% 60%"
+    },
+    "whiskercam": {
+      "name": "Whiskercam",
+      "url": "https://github.com/flujo-app/whiskercam",
+      "line": "A day on the estate, filmed from under a cat's chin. Chase your brother, climb the trees, and share the clip.",
+      "note": "Free in your browser: flujo-app.github.io/whiskercam",
+      "shot": "whiskercam.jpg",
+      "side": true
     }
   }
 }

@@ -39,9 +39,11 @@
 
 <br>
 
-<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/s-fun-dark.webp"><img src="assets/tiles/s-fun-light.webp" alt="Just because. Science nobody asked for." width="100%"></picture>
+<picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/s-fun-dark.webp"><img src="assets/tiles/s-fun-light.webp" alt="Just because. Science and games nobody asked for." width="100%"></picture>
 
 <a href="https://github.com/flujo-app/ai-fruit-fly"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/fruit-fly-dark.webp"><img src="assets/tiles/fruit-fly-light.webp" alt="ai-fruit-fly: A real fruit fly brain, all 138,639 neurons, running in your browser. Then 1,024 flies learned to code a rotating döner." width="100%"></picture></a>
+
+<a href="https://github.com/flujo-app/whiskercam"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/tiles/whiskercam-dark.webp"><img src="assets/tiles/whiskercam-light.webp" alt="Whiskercam: A day on the estate, filmed from under a cat's chin. Chase your brother, climb the trees, and share the clip." width="100%"></picture></a>
 
 <br>
 
